@@ -1,0 +1,11 @@
+HOW TO ADD YOUR PROFILE PHOTO:
+================================
+1. Save your photo as: photo.jpg
+2. Put it in this /public/ folder
+3. Open components/Hero.tsx
+4. Find the line:  {/* <img src="/photo.jpg" ... */}
+5. Remove the {/* and */} comment tags
+6. Also remove or comment the emoji placeholder div above it
+7. Save and refresh — your photo will appear in the circle!
+
+Recommended photo size: 400x400px (square)
