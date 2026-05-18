@@ -99,7 +99,7 @@ export default function Game() {
               </div>
             </div>
             <div className="h-1 bg-[#162038] rounded-full mb-2 overflow-hidden">
-              <div className="h-full bg-[#00d68f] rounded-full transition-all duration-300"
+              <div className="h-full bg-[#00d68f] rounded-full transition-all duration-400"
                 style={{ width: `${((idx) / shuffled.length) * 100}%` }} />
             </div>
             <div className="h-1 bg-[#162038] rounded-full mb-6 overflow-hidden">

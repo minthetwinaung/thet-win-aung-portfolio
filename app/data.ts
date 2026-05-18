@@ -143,16 +143,16 @@ export const experience = [
   },
   {
     role: "BI Developer / Data Analyst",
-    company: "Grand Royal Group International (ThaiBev) — Bangkok, Thailand",
+    company: "Grand Royal Group International — Yangon",
     period: "Jul 2023 — Oct 2025",
     description: "Built Data Warehouse architecture with SSIS ETL for Finance, Inventory, Manufacturing, Logistics modules. Developed Power BI dashboards: ThaiBev Finance, Trade Edge DMS, Trade Edge Monitoring. Integrated SAP S/4HANA with Azure Data Factory pipelines.",
-    tags: ["Power BI", "Azure Data Factory", "SSIS", "SQL Server", "SAP S/4HANA"],
+    tags: ["Power BI", "SSIS", "SQL Server", "SAP S/4HANA"],
   },
   {
     role: "Project Leader / Senior Software Developer",
     company: "Myanmar Information Technology Pte Ltd (MIT) — Yangon",
     period: "Dec 2012 — Jun 2023",
-    description: "Led ERP Accounting and POS Development for 10+ years. Delivered V5/V6 ERP, mPOS, Fixed Assets, Pacific AA Power BI on Azure, CMHL BI Solution, Hospital Queue Management, iTHIS LIS/RIS Integration. Built cloud data warehouses using Azure SQL, ADF, and Power BI.",
+    description: "Led ERP Accounting and POS system development for over 10 years, delivering V5/V6 ERP solutions, mPOS systems, Fixed Assets Management, Pacific AA Power BI on Azure, CMHL BI Solutions, Hospital Queue Management Systems, and iTHIS LIS/RIS integrations. Designed and implemented cloud-based data warehouse solutions using Azure SQL, Azure Data Factory (ADF), and Power BI. Experienced in SQL Server Log Shipping, SQL Replication, ETL processes, data integration, and business intelligence solution development.",
     tags: ["C#.NET", "SQL Server", "Azure", "Power BI", "SSIS", "JavaScript"],
   },
 ]
