@@ -2,11 +2,11 @@
 import { siteConfig } from '@/app/data'
 
 const links = [
-  { label: 'twa.nirvasoft@gmail.com', href: `mailto:${siteConfig.email}`, icon: '✉', color: '#00d68f' },
+  { label: 'minthetwinaung@gmail.com', href: `mailto:${siteConfig.email}`, icon: '✉', color: '#00d68f' },
   { label: '+66 65 294 0798', href: `tel:${siteConfig.phone}`, icon: '☏', color: '#4da6ff' },
   { label: 'LinkedIn Profile', href: siteConfig.linkedin, icon: '💼', color: '#a78bfa' },
   { label: 'Coursera Certs', href: 'https://coursera.org/share/f8d9b1e7ea7d9b34bad2317baf02461f', icon: '📜', color: '#fb923c' },
-  { label: 'Bang Na, Bangkok', href: '#', icon: '📍', color: '#22d3ee' },
+  { label: 'Khlong Toei, Bangkok', href: '#', icon: '📍', color: '#22d3ee' },
 ]
 
 export default function Contact() {

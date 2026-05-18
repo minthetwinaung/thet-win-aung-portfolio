@@ -5,9 +5,9 @@ export const siteConfig = {
   bio: "Data Engineer with 12+ years of experience. Currently at ThaiBev building modern data platforms with dbt, Apache Airflow, ClickHouse, Kafka, and MinIO. Previously built enterprise ETL/BI solutions at Grand Royal Group and Myanmar Information Technology.",
   github: "https://github.com/thetwinaung",
   linkedin: "https://www.linkedin.com/in/sike-rot-720465347/",
-  email: "twa.nirvasoft@gmail.com",
+  email: "minthetwinaung@gmail.com",
   phone: "+66 65 294 0798",
-  location: "Bang Na, Bangkok, Thailand",
+  location: "Khlong Toei, Bangkok, Thailand",
   resume: "https://drive.google.com/file/d/1vdVwgqUXSPIDfdCeiCgV9k6RfstvrDlS/view?usp=drive_link",
 }
 
