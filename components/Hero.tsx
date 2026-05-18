@@ -101,7 +101,7 @@ export default function Hero() {
               {/* Status badge */}
               <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 flex items-center gap-1.5 bg-[#0f1520] border border-[#1e2d47] rounded-full px-3 py-1.5 whitespace-nowrap">
                 <div className="w-2 h-2 rounded-full bg-[#00d68f]" style={{ animation: 'pulse 2s infinite' }}></div>
-                <span className="font-mono text-[10px] text-[#00d68f]">Open to work</span>
+                <span className="font-mono text-[10px] text-[#00d68f]">Hi, Open to work</span>
               </div>
             </div>
           </div>

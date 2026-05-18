@@ -46,7 +46,7 @@ export default function Contact() {
           <div className="font-mono text-sm text-[#4a6080]">
             <span className="text-[#00d68f]">$ </span>
             built with <span className="text-[#4da6ff]">Next.js 14</span> ·
-            deployed on <span className="text-[#a78bfa]">Vercel</span> ·
+            {/* deployed on <span className="text-[#a78bfa]">Vercel</span> · */}
             designed by <span className="text-[#cdd6f4]">Thet Win Aung</span>
             <span className="cursor-blink text-[#00d68f] ml-0.5">_</span>
           </div>

@@ -8,7 +8,7 @@ export const siteConfig = {
   email: "twa.nirvasoft@gmail.com",
   phone: "+66 65 294 0798",
   location: "Bang Na, Bangkok, Thailand",
-  resume: "/resume.pdf",
+  resume: "https://drive.google.com/file/d/1vdVwgqUXSPIDfdCeiCgV9k6RfstvrDlS/view?usp=drive_link",
 }
 
 export const stats = [
